@@ -1,7 +1,7 @@
 - 👋 hi, i’m fil pedroso
-- 👀 i’m interested in computer science and data analysis
+- 👀 i’m interested in computer science and software development (also AI and data analysis)
 - 🌱 i’m currently learning computer science, c and python languages through Harvard's CS50x courses
-- 💞️ i’m looking to collaborate on volunteering projects for positive change and/or internship
+- 💞️ i’m looking to collaborate on volunteering projects for positive change, an internship or an entry-level job!
 - 📫 how to reach me filpedroso3@gmail.com
 - 😄 pronouns: they/them
 - ⚡ fun fact: I had a whole career as a filmmaker before coming to IT
