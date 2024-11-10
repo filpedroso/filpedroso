@@ -1,12 +1,14 @@
-- 👋 hi, i’m fil pedroso
-- 👀 i’m interested in computer science and software development (also AI and data analysis)
-- 🌱 i’m currently learning computer science, c and python languages through Harvard's CS50x courses
-- 💞️ i’m looking to collaborate on volunteering projects for positive change, an internship or an entry-level job!
-- 📫 how to reach me filpedroso3@gmail.com
-- 😄 pronouns: they/them
-- ⚡ fun fact: I had a whole career as a filmmaker before coming to IT
-
-<!---
-filpedroso/filpedroso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Fil Pedroso
+- 👀 Passionate about computer science, software development, AI, and data analysis
+- 🌱 Currently studying at 42
+- I took CS50!
+- 💼 Projects:
+  - **skelet** a raw image displayer in Python
+  - **libft** a redo of C's 43 most standard functions
+  - **num2word** a cool number to word converter in C
+  - **maintanence-manager** an automated maintenance manager in Apex
+- 💞️ Seeking internships, entry-level positions, or volunteer opportunities for positive change
+- 📫 Reach me at filpedroso3@gmail.com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I had a 10 year career as a filmmaker before transitioning to IT
+- 
