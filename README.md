@@ -11,4 +11,3 @@
 - 📫 Reach me at filpedroso3@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I had a 10 year career as a filmmaker before transitioning to IT
-- 
